@@ -1,0 +1,13 @@
+spinal	spinal
+psoas	psoas
+adipose	adipose
+aorta	aorta
+adrenal	adrenal
+pancreas	pancreas
+small_intestine	small_intestine
+tibial	tibial=
+smooth	smooth
+bcell	bcell
+cd14	cd14
+skeletal	skeletal
+lung	lung

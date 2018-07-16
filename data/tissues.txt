@@ -1,0 +1,34 @@
+cereb	GSM1283268	GSM1283269	GSM1283270	GSM1283271	GSM1283272	GSM1283273													
+muscle	GSM1179508	GSM1179509	GSM1179510	GSM1179511	GSM1179512	GSM1179513													
+prefrontal	GSM1283235	GSM1283237	GSM1283240	GSM1283242	GSM1283243														
+white_matter	GSM992014	GSM992015	GSM992016	GSM992017	GSM992018	GSM992019	GSM992020	GSM992021	GSM992022	GSM992023	GSM992024	GSM992025	GSM992026	GSM992027	GSM992028	GSM992029	GSM992030	GSM992031	GSM992032
+temporal	GSM1283245	GSM1283246	GSM1283247	GSM1283248	GSM1283249	GSM1283251	GSM1283252	GSM1283256	GSM1283257	GSM1283258									
+liver	GSM1179503	GSM1179504	GSM1179505	GSM1179506	GSM1179507														
+omentum	GSM1179514	GSM1179515	GSM1179516	GSM1179517	GSM1179518	GSM1179519													
+pancreas	GSM1179520	GSM1179521	GSM1179522	GSM1179523															
+scfat	GSM1179524	GSM1179525	GSM1179526	GSM1179527	GSM1179528	GSM1179529													
+spleen	GSM1179530	GSM1179531	GSM1179532																
+blood	GSM1179533	GSM1179534	GSM1179535	GSM1179536	GSM1179537														
+buccal	GSM1179538	GSM1179539	GSM1179540	GSM1179541	GSM1179542														
+hair	GSM1179543	GSM1179544	GSM1179545	GSM1179546	GSM1179547														
+saliva	GSM1179548	GSM1179549	GSM1179550	GSM1179551	GSM1179552														
+leuk	GSM1326839	GSM1326840	GSM1326841	GSM1326842	GSM1326843	GSM1326844	GSM1326845	GSM1326838											
+H1_Derived_Neuronal_Progenitor_Cultured_Cells	H1_Derived_Neuronal_Progenitor_Cultured_Cells																		
+Mobilized_CD34_Primary_Cells_Female	Mobilized_CD34_Primary_Cells_Female																		
+Aorta	Aorta																		
+Adult_Liver	Adult_Liver																		
+Brain_Germinal_Matrix	Brain_Germinal_Matrix																		
+Brain_Hippocampus_Middle	Brain_Hippocampus_Middle																		
+Esophagus	Esophagus																		
+Gastric	Gastric																		
+Left_Ventricle	Left_Ventricle																		
+Lung	Lung																		
+Ovary	Ovary																		
+Pancreas	Pancreas																		
+Psoas_Muscle	Psoas_Muscle																		
+Right_Atrium	Right_Atrium																		
+Right_Ventricle	Right_Ventricle																		
+Sigmoid_Colon	Sigmoid_Colon																		
+Small_Intestine	Small_Intestine																		
+Thymus	Thymus																		
+Spleen	Spleen																		
