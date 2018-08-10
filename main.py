@@ -15,9 +15,9 @@ def generate_optimization(reference, methylated, unmethylated, method):
 if __name__ == "__main__":
 
 
-    for patient in ["deconv_exp1_mix3.txt"]:
-        reference, methylated, unmethylated = generate_matrices("/Users/Christa.Caggiano/Desktop/zaitlen_lab_desktop/" + patient, "data/exp_tissues.txt")
-        np.savetxt("reference.txt", reference)
+    for patient in ["ctrl2_merged_new_ref.txt", "ctrl3_merged_new_ref.txt", "ctrl4_merged_new_ref.txt",
+                    "als2_merged_new_ref.txt", "als3_merged_new_ref.txt", "als4_merged_new_ref.txt"]:
+        reference, methylated, unmethylated = generate_matrices("/Users/Christa.Caggiano/Desktop/zaitlen_lab_desktop/" + patient, "data/tissues-new-ref-2.txt")
         x = generate_optimization(reference, methylated, unmethylated, qp)
         print(x)
         np.savetxt("output/" + patient + "_qp", x)

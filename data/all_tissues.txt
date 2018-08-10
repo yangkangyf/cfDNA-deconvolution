@@ -1,0 +1,257 @@
+Biosample.term.name
+cardiac fibroblast
+cardiac fibroblast
+H1-hESC
+H1-hESC
+neural stem progenitor cell
+B cell
+B cell
+non-pigmented ciliary epithelial cell
+non-pigmented ciliary epithelial cell
+spleen
+spleen
+muscle of trunk
+A549
+A549
+OCI-LY7
+OCI-LY7
+sigmoid colon
+smooth muscle cell
+smooth muscle cell
+pancreas
+pancreas
+heart left ventricle
+SK-N-SH
+SK-N-SH
+heart right ventricle
+HepG2
+HepG2
+adipose tissue
+adipose tissue
+sigmoid colon
+sigmoid colon
+kidney epithelial cell
+kidney epithelial cell
+thyroid gland
+thyroid gland
+heart
+skeletal muscle cell
+skeletal muscle cell
+kidney
+kidney
+placenta
+stomach
+stomach
+testis
+testis
+CD14-positive monocyte
+CD14-positive monocyte
+mononuclear cell
+mononuclear cell
+epithelial cell of esophagus
+epithelial cell of esophagus
+body of pancreas
+body of pancreas
+ovary
+ovary
+esophagus
+esophagus
+body of pancreas
+body of pancreas
+zone of skin
+zone of skin
+pancreas
+pancreas
+uterus
+uterus
+myoblast
+myoblast
+myoblast
+stomach
+esophagus
+esophagus
+H9
+H9
+hepatocyte
+hepatocyte
+trophoblast cell
+trophoblast cell
+skeletal muscle myoblast
+skeletal muscle myoblast
+skeletal muscle myoblast
+spleen
+spleen
+spleen
+spleen
+small intestine
+small intestine
+mammary epithelial cell
+mammary epithelial cell
+hepatocyte
+hepatocyte
+lung
+thymus
+adrenal gland
+adrenal gland
+small intestine
+small intestine
+common myeloid progenitor, CD34-positive
+mesendoderm
+mesendoderm
+heart right ventricle
+heart right ventricle
+stomach
+stomach
+astrocyte
+astrocyte
+lung
+lung
+small intestine
+psoas muscle
+spleen
+epithelial cell of proximal tubule
+epithelial cell of proximal tubule
+pericardium
+pericardium
+pancreas
+pancreas
+right cardiac atrium
+right cardiac atrium
+iris pigment epithelial cell
+iris pigment epithelial cell
+astrocyte
+astrocyte
+adipose tissue
+adipose tissue
+endodermal cell
+natural killer cell
+stomach
+endodermal cell
+skeletal muscle tissue
+skeletal muscle tissue
+amniotic epithelial cell
+amniotic epithelial cell
+large intestine
+small intestine
+IMR-90
+stomach
+stomach
+muscle of leg
+mesenchymal stem cell
+mesenchymal stem cell
+spinal cord
+spinal cord
+aorta
+aorta
+ovary
+ovary
+heart left ventricle
+HepG2
+HepG2
+epithelial cell of alveolus of lung
+epithelial cell of alveolus of lung
+lung
+lung
+stomach
+stomach
+neural stem progenitor cell
+neural stem progenitor cell
+adrenal gland
+breast
+breast
+adrenal gland
+adrenal gland
+adrenal gland
+adrenal gland
+skeletal muscle myoblast
+skeletal muscle myoblast
+skeletal muscle myoblast
+adipose tissue
+H1-hESC
+H1-hESC
+IMR-90
+IMR-90
+prostate gland
+prostate gland
+ectodermal cell
+HUES64
+HUES64
+GM12878
+GM12878
+thymus
+testis
+testis
+placenta
+placenta
+stomach
+stomach
+bronchial epithelial cell
+bronchial epithelial cell
+thyroid gland
+thyroid gland
+ectodermal cell
+GM23248
+GM23248
+mesodermal cell
+adrenal gland
+adrenal gland
+foreskin fibroblast
+foreskin fibroblast
+bronchial epithelial cell
+bronchial epithelial cell
+psoas muscle
+mammary epithelial cell
+mammary epithelial cell
+testis
+testis
+ovary
+ovary
+T-cell
+liver
+liver
+HeLa-S3
+HeLa-S3
+skeletal muscle tissue
+skeletal muscle tissue
+smooth muscle cell
+smooth muscle cell
+smooth muscle cell
+GM23248
+GM23248
+upper lobe of left lung
+upper lobe of left lung
+tibial nerve
+tibial nerve
+tibial nerve
+tibial nerve
+mesodermal cell
+upper lobe of left lung
+upper lobe of left lung
+renal cortical epithelial cell
+renal cortical epithelial cell
+lower leg skin
+lower leg skin
+lower leg skin
+lower leg skin
+brain
+osteoblast
+osteoblast
+heart left ventricle
+heart left ventricle
+aortic smooth muscle cell
+aortic smooth muscle cell
+retinal pigment epithelial cell
+retinal pigment epithelial cell
+choroid plexus epithelial cell
+choroid plexus epithelial cell
+spleen
+spleen
+epithelial cell of prostate
+epithelial cell of prostate
+cardiac muscle cell
+cardiac muscle cell
+K562
+K562
+epidermal melanocyte
+epidermal melanocyte
+epidermal melanocyte

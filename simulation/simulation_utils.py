@@ -20,12 +20,12 @@ def generate_proportion(individuals, tissue):
     return pd.DataFrame.from_records(rows)
 
 
-def generate_proportion_fixed(individuals, tissue, percentage):
+def generate_proportion_fixed(individuals, tissue, percentage, column):
 
     rows = []
     for i in range(individuals):
         vals = np.random.multinomial(100-percentage, np.ones(tissue-1)/(tissue-1), size=1)[0].tolist()
-        vals.append(percentage)
+        vals.insert(column, percentage)
         rows.append([x/100 for x in vals])  # proportions must sum to 1
 
     return rows

@@ -12,13 +12,16 @@ def generate_matrices(intersect_file, tissue_file):
 
     # reference = reference.dropna()
 
-    meth_array = np.round(reference["meth"].values, 0)
-    unmeth_array = np.round(reference["unmeth"].values, 0)
+    meth_array = reference["meth"].values
+    unmeth_array = reference["unmeth"].values
+
 
     reference = reference.drop(["meth", "unmeth"], axis=1)
+    reference = reference/100
+
 
     tissues = read_tissues(tissue_file)
-    average_reference = calculate_tissue_means(reference, tissues)
+    average_reference = reference.values
     return average_reference.T, np.reshape(meth_array, (1, len( meth_array))), np.reshape(unmeth_array, (1, len(unmeth_array)))
 
 
