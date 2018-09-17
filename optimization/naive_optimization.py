@@ -55,7 +55,8 @@ def perform_optimization(proportions_est, reference, methylated, unmethylated):
 
     # perform minimization using scipy optimization, BFGS technique. Max iterations==10,000
     prop_guess = minimize(counts_log_likelihood, proportions_est, args=(methylated, unmethylated, reference),
-                          bounds=bounds, method="L-BFGS-B", options={'maxiter': 10000, 'ftol': 1e-08})
+                          bounds=bounds, method="L-BFGS-B", options={'maxiter': 10000, 'ftol': 1e-04})
+
     print(prop_guess)
     return prop_guess["x"]
 

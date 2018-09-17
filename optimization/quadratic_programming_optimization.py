@@ -53,6 +53,6 @@ def perform_optimization(proportions_est, reference, methylated, unmethylated):
     prop_guess = minimize(counts_log_likelihood, proportions_est, args=(methylated, unmethylated, reference),
                             bounds=bounds, constraints=cons, method="SLSQP", options={'maxiter': 10000, 'ftol': 1e-06})
 
-    print(prop_guess)
+    # print(prop_guess)
     return prop_guess["x"]
 

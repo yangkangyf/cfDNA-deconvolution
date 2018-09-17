@@ -14,3 +14,4 @@ def scaled_mse(truth, guess):
 
 def corr(truth, guess):
     return np.corrcoef(truth, guess)[0][1]
+
